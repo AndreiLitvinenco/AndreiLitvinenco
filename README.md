@@ -6,16 +6,19 @@
 - HTML
 - CSS
 - JavaScript
+- NodeJs
 - SQL
+- Python3
 - Familiar with centering divs and joining tables
 
 ## Hobbies
 - Learning new technologies
 - Building personal projects
-- Participating in hackathons
+- Playing story oriented games
+- Reading books
 
 ## Contact
-- Email: [youremail@example.com](youremail@example.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Email: [andreialitvinenco@gmail.com](andreialitvinenco@gmail.com)
+- LinkedIn: [linkedin.com/in/andrei-litvinenco/](linkedin.com/in/andrei-litvinenco/)
 
 Feel free to reach out to me if you have any interesting project ideas or if you want to collaborate on something. Let's build something great together! 🚀
