@@ -1,8 +1,8 @@
 # About Me
 
-🚀 I am a Uni student with a passion for web development. I have experience working with both front-end and back-end technologies and always looking to learn more.
+🚀 I am a Uni student with a passion for web development. I am generating experience working with both front-end and back-end technologies and always looking to learn more.
 
-## Skills
+## Desired Skills
 - HTML
 - CSS
 - JavaScript
