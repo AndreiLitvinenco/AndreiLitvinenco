@@ -7,7 +7,8 @@
 - CSS
 - JavaScript
 - NodeJs
-- SQL
+- PostgreSQL
+- Bash
 - Python3
 - Familiar with centering divs and joining tables
 
