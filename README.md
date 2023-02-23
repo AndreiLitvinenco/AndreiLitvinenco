@@ -10,6 +10,7 @@
 - PostgreSQL
 - Bash
 - Python3
+- Markdown
 - Familiar with centering divs and joining tables
 
 ## Hobbies
