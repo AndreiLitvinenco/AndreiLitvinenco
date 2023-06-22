@@ -11,6 +11,9 @@
 - Bash
 - Python3
 - Markdown
+- Postman
+- Cypress
+- JMeter
 
 
 ## Hobbies
